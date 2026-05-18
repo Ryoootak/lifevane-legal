@@ -1,0 +1,12 @@
+---
+---
+
+@import "minima";
+
+.site-title,
+.site-title:visited,
+.site-title:hover {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+}
