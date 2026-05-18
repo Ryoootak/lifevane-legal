@@ -1,5 +1,5 @@
 ---
-title: 利用規約 - Lifevane
+title: 利用規約
 ---
 
 # 利用規約
