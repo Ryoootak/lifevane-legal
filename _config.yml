@@ -1,3 +1,7 @@
 title: Lifevane
 lang: ja
 theme: minima
+header_pages:
+  - privacy.md
+  - terms.md
+  - support.md
