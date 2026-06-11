@@ -80,7 +80,7 @@ Premium画面の「購入を復元」をお試しください。あわせて、�
 
 開発者に直接連絡したい場合は、以下からメールでお問い合わせいただけます。
 
-[サポートへメールで問い合わせる](mailto:dev.ryota.1@gmail.com?subject=Lifevane%20サポート問い合わせ)
+[サポートへメールで問い合わせる](mailto:info@boskatelier.com?subject=Lifevane%20サポート問い合わせ)
 
 ---
 
